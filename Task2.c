@@ -12,7 +12,6 @@ void mergeSort(int a[], int p, int r)
         merge(a, p, q, r);
     }
 }
-
 // function to merge the subarrays
 void merge(int a[], int p, int q, int r)
 {
